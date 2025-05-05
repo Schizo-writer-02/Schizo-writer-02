@@ -1,10 +1,12 @@
 ## Hi there 👋
 
+I am a master student and created this account to create a site for my questionnaire exercise. Nevertheless, I do believe that I will use it more later in my work after graduation. Therefore, I am looking forward to creating my first site and subsequent work. Who knows what future shall bring? :)
+
 <!--
 **Schizo-writer-02/Schizo-writer-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
